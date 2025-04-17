@@ -1,0 +1,18 @@
+{
+"enemys":"pppppaabbbbbbbbfffff",
+"blocks":[
+["nnnn", "nnnn", "nnnn", "nnnn", "bbbb", "bbbb", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn"],
+["nnss", "nnnn", "nnbb", "nnnn", "bbbb", "nnnn", "nnnn", "nnnn", "ssnn", "ssnn", "ssss", "nnnn", "nnnn"],
+["ssss", "nnnn", "bbbb", "nnnn", "nnnn", "nnnn", "bbbb", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn"],
+["bbbb", "nnnn", "bbbb", "bbbb", "bbbb", "nnnn", "bbbb", "bbbb", "nnnn", "wwww", "wwww", "nnnn", "wwww"],
+["bbnn", "nnnn", "nnnn", "nnnn", "bbnn", "nnnn", "nnnn", "nnnn", "nnnn", "wwww", "nnnn", "nnnn", "nnnn"],
+["nnnn", "nnnn", "nnbb", "nnnn", "wwww", "wwww", "nnnn", "wwww", "wwww", "wwww", "nnnn", "bbbb", "bbbb"],
+["bbbb", "bbbb", "nnnn", "nnnn", "wwww", "bbbb", "nnnn", "bbbb", "bnnb", "nnnn", "nnnn", "nnnn", "nnnn"],
+["nnnn", "nnnn", "nnnn", "nnnn", "wwww", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn", "nssn", "snns", "nnnn"],
+["wwww", "wwww", "wwww", "nnnn", "wwww", "nnnn", "ssss", "nnnn", "bbbb", "nnnn", "nssn", "nnnn", "nnnn"],
+["nnnn", "nnnn", "nnnn", "nnnn", "nnbb", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn", "nssn", "bbbb", "bbbb"],
+["nnnn", "nnnn", "nnnn", "nnnn", "bbnn", "bbnn", "bbnn", "bbnn", "bbbn", "nnbb", "nnnn", "nnnn", "nnnn"],
+["bbbb", "bbbb", "bbnn", "nnnn", "nnnn", "nnbn", "nnbb", "nnnb", "nnnn", "bbnn", "bbbb", "nnnn", "nnnn"],
+["bbnn", "nnnn", "nnnn", "nnnn", "nnnn", "nbbn", "uuuu", "bnnb", "nnnn", "nnnn", "nnnn", "nnnn", "nnnn"]
+]
+}
